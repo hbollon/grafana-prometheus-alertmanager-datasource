@@ -20,6 +20,28 @@
 * **doc:** add missing images ([a26d316](https://www.github.com/camptocamp/grafana-prometheus-alertmanager-datasource/commit/a26d316a3067d72cc615937a683401ad9e0ed247))
 
 
+## [1.3.0](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/compare/v1.2.0...v1.3.0) (2022-05-06)
+
+
+### Features
+
+* add doc to configure singlestat panel ([8c51289](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/8c5128940c2baf97ac4118461cb2684170d82a40))
+* add github actions for build process ([29a7494](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/29a7494d8ea864545612f1300970f3f80edb4698))
+* display active alerts by default ([da31418](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/da31418b3aaf83931466656f1801f093491941b3))
+* Empty-Commit ([df67d7b](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/df67d7bba3b3acd8b0595789717a35abc2da257d))
+* Empty-Commit ([c2bebbb](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/c2bebbb7ebcaf1ba97fce947f591b7ddbd0a1deb))
+* new release workflow ([74b72dd](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/74b72dd5e23886c8f9ddee2272f5b526db3ff3fd))
+* test release 1.3.0 ([60afd53](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/60afd537855bb37c4aadf33f176c677661caddb1))
+
+
+### Bug Fixes
+
+* 10, template variables single format ([111685e](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/111685ed46782fb2b9ac057b1a5c3347ee4361fb))
+* build workflow ([b4d72a7](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/b4d72a74782a572d91fc08356185ad65bf010030))
+* **ci:** remove package-lock.json ([db32e71](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/db32e712ee1c6151ddbc5be6032e3d198e3e9800))
+* **doc:** add missing images ([a26d316](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/a26d316a3067d72cc615937a683401ad9e0ed247))
+* remove data from datasource requests ([703ab37](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/703ab377ce31183d69545e7a6359749d4d00ecc3))
+
 ## [1.2.0](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/compare/v1.1.0...v1.2.0) (2022-05-06)
 
 
