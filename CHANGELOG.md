@@ -20,6 +20,13 @@
 * **doc:** add missing images ([a26d316](https://www.github.com/camptocamp/grafana-prometheus-alertmanager-datasource/commit/a26d316a3067d72cc615937a683401ad9e0ed247))
 
 
+## [1.5.0](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/compare/v1.4.0...v1.5.0) (2022-05-06)
+
+
+### Features
+
+* test ([d1a15e5](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/commit/d1a15e5f64867636a70fba47139a00e13614bc42))
+
 ## [1.4.0](https://github.com/hbollon/grafana-prometheus-alertmanager-datasource/compare/v1.3.0...v1.4.0) (2022-05-06)
 
 
